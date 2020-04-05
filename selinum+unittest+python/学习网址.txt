@@ -1,0 +1,1 @@
+https://blog.csdn.net/songlh1234/article/details/84317617    Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战
